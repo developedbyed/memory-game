@@ -1,3 +1,4 @@
+console.log("forked memory game")
 document.addEventListener("DOMContentLoaded", (e) => {
   console.log(e);
   cardGenerator();
